@@ -1,4 +1,4 @@
 ADMIN LOGIN: 
-username: hitesh
-password:hitesh
+username: *********
+password:**********
 db_table: book_book(do 'select* from book_book;')
